@@ -33,7 +33,7 @@
     "bs58": "^2.0.0",
     "elliptic": "=6.4.0",
     "karma-chrome-launcher": "^2.2.0",
-    "secp256k1": "^1.1.5"
+    "secp256k1": "^3.0.0"
   },
   "devDependencies": {
     "benchmark": "^1.0.0",
